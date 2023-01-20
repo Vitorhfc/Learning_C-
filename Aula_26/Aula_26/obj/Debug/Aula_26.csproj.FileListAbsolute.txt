@@ -1,0 +1,8 @@
+C:\Users\vitor_qb6xxhk\Documents\aulas\Aula_26\Aula_26\obj\Debug\Aula_26.csproj.AssemblyReference.cache
+C:\Users\vitor_qb6xxhk\Documents\aulas\Aula_26\Aula_26\obj\Debug\Aula_26.csproj.SuggestedBindingRedirects.cache
+C:\Users\vitor_qb6xxhk\Documents\aulas\Aula_26\Aula_26\obj\Debug\Aula_26.csproj.CoreCompileInputs.cache
+C:\Users\vitor_qb6xxhk\Documents\aulas\Aula_26\Aula_26\bin\Debug\Aula_26.exe.config
+C:\Users\vitor_qb6xxhk\Documents\aulas\Aula_26\Aula_26\bin\Debug\Aula_26.exe
+C:\Users\vitor_qb6xxhk\Documents\aulas\Aula_26\Aula_26\bin\Debug\Aula_26.pdb
+C:\Users\vitor_qb6xxhk\Documents\aulas\Aula_26\Aula_26\obj\Debug\Aula_26.exe
+C:\Users\vitor_qb6xxhk\Documents\aulas\Aula_26\Aula_26\obj\Debug\Aula_26.pdb
