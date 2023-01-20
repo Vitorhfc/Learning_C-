@@ -1,0 +1,8 @@
+C:\Users\vitor_qb6xxhk\Documents\aulas\Aula_17_arrays\Aula_17_arrays\obj\Debug\Aula_17_arrays.csproj.AssemblyReference.cache
+C:\Users\vitor_qb6xxhk\Documents\aulas\Aula_17_arrays\Aula_17_arrays\obj\Debug\Aula_17_arrays.csproj.SuggestedBindingRedirects.cache
+C:\Users\vitor_qb6xxhk\Documents\aulas\Aula_17_arrays\Aula_17_arrays\obj\Debug\Aula_17_arrays.csproj.CoreCompileInputs.cache
+C:\Users\vitor_qb6xxhk\Documents\aulas\Aula_17_arrays\Aula_17_arrays\bin\Debug\Aula_17_arrays.exe.config
+C:\Users\vitor_qb6xxhk\Documents\aulas\Aula_17_arrays\Aula_17_arrays\bin\Debug\Aula_17_arrays.exe
+C:\Users\vitor_qb6xxhk\Documents\aulas\Aula_17_arrays\Aula_17_arrays\bin\Debug\Aula_17_arrays.pdb
+C:\Users\vitor_qb6xxhk\Documents\aulas\Aula_17_arrays\Aula_17_arrays\obj\Debug\Aula_17_arrays.exe
+C:\Users\vitor_qb6xxhk\Documents\aulas\Aula_17_arrays\Aula_17_arrays\obj\Debug\Aula_17_arrays.pdb
