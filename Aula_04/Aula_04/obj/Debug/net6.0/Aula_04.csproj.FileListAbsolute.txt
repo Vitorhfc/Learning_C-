@@ -1,0 +1,15 @@
+C:\Users\vitor_qb6xxhk\Documents\aulas\Aula_04\Aula_04\obj\Debug\net6.0\Aula_04.csproj.AssemblyReference.cache
+C:\Users\vitor_qb6xxhk\Documents\aulas\Aula_04\Aula_04\obj\Debug\net6.0\Aula_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor_qb6xxhk\Documents\aulas\Aula_04\Aula_04\obj\Debug\net6.0\Aula_04.AssemblyInfoInputs.cache
+C:\Users\vitor_qb6xxhk\Documents\aulas\Aula_04\Aula_04\obj\Debug\net6.0\Aula_04.AssemblyInfo.cs
+C:\Users\vitor_qb6xxhk\Documents\aulas\Aula_04\Aula_04\obj\Debug\net6.0\Aula_04.csproj.CoreCompileInputs.cache
+C:\Users\vitor_qb6xxhk\Documents\aulas\Aula_04\Aula_04\bin\Debug\net6.0\Aula_04.exe
+C:\Users\vitor_qb6xxhk\Documents\aulas\Aula_04\Aula_04\bin\Debug\net6.0\Aula_04.deps.json
+C:\Users\vitor_qb6xxhk\Documents\aulas\Aula_04\Aula_04\bin\Debug\net6.0\Aula_04.runtimeconfig.json
+C:\Users\vitor_qb6xxhk\Documents\aulas\Aula_04\Aula_04\bin\Debug\net6.0\Aula_04.dll
+C:\Users\vitor_qb6xxhk\Documents\aulas\Aula_04\Aula_04\bin\Debug\net6.0\Aula_04.pdb
+C:\Users\vitor_qb6xxhk\Documents\aulas\Aula_04\Aula_04\obj\Debug\net6.0\Aula_04.dll
+C:\Users\vitor_qb6xxhk\Documents\aulas\Aula_04\Aula_04\obj\Debug\net6.0\refint\Aula_04.dll
+C:\Users\vitor_qb6xxhk\Documents\aulas\Aula_04\Aula_04\obj\Debug\net6.0\Aula_04.pdb
+C:\Users\vitor_qb6xxhk\Documents\aulas\Aula_04\Aula_04\obj\Debug\net6.0\Aula_04.genruntimeconfig.cache
+C:\Users\vitor_qb6xxhk\Documents\aulas\Aula_04\Aula_04\obj\Debug\net6.0\ref\Aula_04.dll
