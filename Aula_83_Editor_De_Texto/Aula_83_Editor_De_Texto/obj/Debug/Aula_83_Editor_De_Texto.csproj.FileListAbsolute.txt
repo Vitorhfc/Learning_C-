@@ -1,0 +1,11 @@
+C:\Users\vitor\Documents\Learning_C-\Aula_83_Editor_De_Texto\Aula_83_Editor_De_Texto\bin\Debug\Aula_83_Editor_De_Texto.exe.config
+C:\Users\vitor\Documents\Learning_C-\Aula_83_Editor_De_Texto\Aula_83_Editor_De_Texto\bin\Debug\Aula_83_Editor_De_Texto.exe
+C:\Users\vitor\Documents\Learning_C-\Aula_83_Editor_De_Texto\Aula_83_Editor_De_Texto\bin\Debug\Aula_83_Editor_De_Texto.pdb
+C:\Users\vitor\Documents\Learning_C-\Aula_83_Editor_De_Texto\Aula_83_Editor_De_Texto\obj\Debug\Aula_83_Editor_De_Texto.csproj.AssemblyReference.cache
+C:\Users\vitor\Documents\Learning_C-\Aula_83_Editor_De_Texto\Aula_83_Editor_De_Texto\obj\Debug\Aula_83_Editor_De_Texto.csproj.SuggestedBindingRedirects.cache
+C:\Users\vitor\Documents\Learning_C-\Aula_83_Editor_De_Texto\Aula_83_Editor_De_Texto\obj\Debug\Aula_83_Editor_De_Texto.Properties.Resources.resources
+C:\Users\vitor\Documents\Learning_C-\Aula_83_Editor_De_Texto\Aula_83_Editor_De_Texto\obj\Debug\Aula_83_Editor_De_Texto.csproj.GenerateResource.cache
+C:\Users\vitor\Documents\Learning_C-\Aula_83_Editor_De_Texto\Aula_83_Editor_De_Texto\obj\Debug\Aula_83_Editor_De_Texto.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Documents\Learning_C-\Aula_83_Editor_De_Texto\Aula_83_Editor_De_Texto\obj\Debug\Aula_83_Editor_De_Texto.exe
+C:\Users\vitor\Documents\Learning_C-\Aula_83_Editor_De_Texto\Aula_83_Editor_De_Texto\obj\Debug\Aula_83_Editor_De_Texto.pdb
+C:\Users\vitor\Documents\Learning_C-\Aula_83_Editor_De_Texto\Aula_83_Editor_De_Texto\obj\Debug\Aula_83_Editor_De_Texto.EditorTexto.resources

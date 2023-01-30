@@ -1,0 +1,12 @@
+C:\Users\vitor\Documents\Learning_C-\Aula_65\Aula_65\bin\Debug\Aula_65.exe.config
+C:\Users\vitor\Documents\Learning_C-\Aula_65\Aula_65\bin\Debug\Aula_65.exe
+C:\Users\vitor\Documents\Learning_C-\Aula_65\Aula_65\bin\Debug\Aula_65.pdb
+C:\Users\vitor\Documents\Learning_C-\Aula_65\Aula_65\obj\Debug\Aula_65.csproj.AssemblyReference.cache
+C:\Users\vitor\Documents\Learning_C-\Aula_65\Aula_65\obj\Debug\Aula_65.csproj.SuggestedBindingRedirects.cache
+C:\Users\vitor\Documents\Learning_C-\Aula_65\Aula_65\obj\Debug\Aula_65.Menu.resources
+C:\Users\vitor\Documents\Learning_C-\Aula_65\Aula_65\obj\Debug\Aula_65.Properties.Resources.resources
+C:\Users\vitor\Documents\Learning_C-\Aula_65\Aula_65\obj\Debug\Aula_65.csproj.GenerateResource.cache
+C:\Users\vitor\Documents\Learning_C-\Aula_65\Aula_65\obj\Debug\Aula_65.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Documents\Learning_C-\Aula_65\Aula_65\obj\Debug\Aula_65.exe
+C:\Users\vitor\Documents\Learning_C-\Aula_65\Aula_65\obj\Debug\Aula_65.pdb
+C:\Users\vitor\Documents\Learning_C-\Aula_65\Aula_65\obj\Debug\Aula_65.CheckBox.resources

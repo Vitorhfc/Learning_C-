@@ -1,0 +1,8 @@
+C:\Users\vitor\Documents\Learning_C-\Aula_48\Aula_48\bin\Debug\Aula_48.exe.config
+C:\Users\vitor\Documents\Learning_C-\Aula_48\Aula_48\bin\Debug\Aula_48.exe
+C:\Users\vitor\Documents\Learning_C-\Aula_48\Aula_48\bin\Debug\Aula_48.pdb
+C:\Users\vitor\Documents\Learning_C-\Aula_48\Aula_48\obj\Debug\Aula_48.csproj.AssemblyReference.cache
+C:\Users\vitor\Documents\Learning_C-\Aula_48\Aula_48\obj\Debug\Aula_48.csproj.SuggestedBindingRedirects.cache
+C:\Users\vitor\Documents\Learning_C-\Aula_48\Aula_48\obj\Debug\Aula_48.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Documents\Learning_C-\Aula_48\Aula_48\obj\Debug\Aula_48.exe
+C:\Users\vitor\Documents\Learning_C-\Aula_48\Aula_48\obj\Debug\Aula_48.pdb

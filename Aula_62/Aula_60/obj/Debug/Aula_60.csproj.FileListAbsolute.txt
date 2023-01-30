@@ -1,0 +1,11 @@
+C:\Users\vitor\Documents\Learning_C-\Aula_60\Aula_60\bin\Debug\Aula_60.exe.config
+C:\Users\vitor\Documents\Learning_C-\Aula_60\Aula_60\bin\Debug\Aula_60.exe
+C:\Users\vitor\Documents\Learning_C-\Aula_60\Aula_60\bin\Debug\Aula_60.pdb
+C:\Users\vitor\Documents\Learning_C-\Aula_60\Aula_60\obj\Debug\Aula_60.csproj.AssemblyReference.cache
+C:\Users\vitor\Documents\Learning_C-\Aula_60\Aula_60\obj\Debug\Aula_60.csproj.SuggestedBindingRedirects.cache
+C:\Users\vitor\Documents\Learning_C-\Aula_60\Aula_60\obj\Debug\Aula_60.Formulário_Principal.resources
+C:\Users\vitor\Documents\Learning_C-\Aula_60\Aula_60\obj\Debug\Aula_60.Properties.Resources.resources
+C:\Users\vitor\Documents\Learning_C-\Aula_60\Aula_60\obj\Debug\Aula_60.csproj.GenerateResource.cache
+C:\Users\vitor\Documents\Learning_C-\Aula_60\Aula_60\obj\Debug\Aula_60.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Documents\Learning_C-\Aula_60\Aula_60\obj\Debug\Aula_60.exe
+C:\Users\vitor\Documents\Learning_C-\Aula_60\Aula_60\obj\Debug\Aula_60.pdb
