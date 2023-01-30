@@ -1,0 +1,16 @@
+C:\Users\vitor\Documents\Learning_C-\Aula_99\Aula_99\bin\Debug\Aula_99.exe.config
+C:\Users\vitor\Documents\Learning_C-\Aula_99\Aula_99\bin\Debug\Aula_99.exe
+C:\Users\vitor\Documents\Learning_C-\Aula_99\Aula_99\bin\Debug\Aula_99.pdb
+C:\Users\vitor\Documents\Learning_C-\Aula_99\Aula_99\bin\Debug\System.Data.SQLite.dll
+C:\Users\vitor\Documents\Learning_C-\Aula_99\Aula_99\bin\Debug\System.Data.SQLite.xml
+C:\Users\vitor\Documents\Learning_C-\Aula_99\Aula_99\obj\Debug\Aula_99.csproj.AssemblyReference.cache
+C:\Users\vitor\Documents\Learning_C-\Aula_99\Aula_99\obj\Debug\Aula_99.csproj.SuggestedBindingRedirects.cache
+C:\Users\vitor\Documents\Learning_C-\Aula_99\Aula_99\obj\Debug\Aula_99.Form1.resources
+C:\Users\vitor\Documents\Learning_C-\Aula_99\Aula_99\obj\Debug\Aula_99.Projeto_Bradock.resources
+C:\Users\vitor\Documents\Learning_C-\Aula_99\Aula_99\obj\Debug\Aula_99.Properties.Resources.resources
+C:\Users\vitor\Documents\Learning_C-\Aula_99\Aula_99\obj\Debug\Aula_99.csproj.GenerateResource.cache
+C:\Users\vitor\Documents\Learning_C-\Aula_99\Aula_99\obj\Debug\Aula_99.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Documents\Learning_C-\Aula_99\Aula_99\obj\Debug\Aula_99.csproj.CopyComplete
+C:\Users\vitor\Documents\Learning_C-\Aula_99\Aula_99\obj\Debug\Aula_99.exe
+C:\Users\vitor\Documents\Learning_C-\Aula_99\Aula_99\obj\Debug\Aula_99.pdb
+C:\Users\vitor\Documents\Learning_C-\Aula_99\Aula_99\obj\Debug\Aula_99.log.resources

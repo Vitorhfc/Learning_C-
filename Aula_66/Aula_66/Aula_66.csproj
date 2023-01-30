@@ -1,0 +1,294 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{107567C7-0C29-49F1-8D52-AE43A2C129A8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Aula_66</RootNamespace>
+    <AssemblyName>Aula_66</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Tela_SplitContainer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tela_SplitContainer.Designer.cs">
+      <DependentUpon>Tela_SplitContainer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tela_TabControl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tela_TabControl.Designer.cs">
+      <DependentUpon>Tela_TabControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tela_RadioButton.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tela_RadioButton.Designer.cs">
+      <DependentUpon>Tela_RadioButton.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tela_ProgressBar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tela_ProgressBar.Designer.cs">
+      <DependentUpon>Tela_ProgressBar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tela_NumericUpDown.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tela_NumericUpDown.Designer.cs">
+      <DependentUpon>Tela_NumericUpDown.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tela_ListView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tela_ListView.Designer.cs">
+      <DependentUpon>Tela_ListView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tela_ListBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tela_ListBox.Designer.cs">
+      <DependentUpon>Tela_ListBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tela_LinkLabel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tela_LinkLabel.Designer.cs">
+      <DependentUpon>Tela_LinkLabel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tela_CheckBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tela_CheckBox.Designer.cs">
+      <DependentUpon>Tela_CheckBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tela_CheckBox_2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tela_CheckBox_2.Designer.cs">
+      <DependentUpon>Tela_CheckBox_2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tela_CheckedListBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tela_CheckedListBox.Designer.cs">
+      <DependentUpon>Tela_CheckedListBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tela_ComboBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tela_ComboBox.Designer.cs">
+      <DependentUpon>Tela_ComboBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tela_DateTimer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tela_DateTimer.Designer.cs">
+      <DependentUpon>Tela_DateTimer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Tela_MaskedTextBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tela_MaskedTextBox.Designer.cs">
+      <DependentUpon>Tela_MaskedTextBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tela_MounthCalendar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tela_MounthCalendar.Designer.cs">
+      <DependentUpon>Tela_MounthCalendar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tela_PictureBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tela_PictureBox.Designer.cs">
+      <DependentUpon>Tela_PictureBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tela_TableLayoutPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tela_TableLayoutPanel.Designer.cs">
+      <DependentUpon>Tela_TableLayoutPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tela_Timer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tela_Timer.Designer.cs">
+      <DependentUpon>Tela_Timer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tela_ToolStripContainer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tela_ToolStripContainer.Designer.cs">
+      <DependentUpon>Tela_ToolStripContainer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tela_TrackBar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tela_TrackBar.Designer.cs">
+      <DependentUpon>Tela_TrackBar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tela_WebBrowser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tela_WebBrowser.Designer.cs">
+      <DependentUpon>Tela_WebBrowser.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Tela_SplitContainer.resx">
+      <DependentUpon>Tela_SplitContainer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tela_ProgressBar.resx">
+      <DependentUpon>Tela_ProgressBar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tela_NumericUpDown.resx">
+      <DependentUpon>Tela_NumericUpDown.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tela_CheckBox.resx">
+      <DependentUpon>Tela_CheckBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tela_CheckBox_2.resx">
+      <DependentUpon>Tela_CheckBox_2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tela_CheckedListBox.resx">
+      <DependentUpon>Tela_CheckedListBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tela_ComboBox.resx">
+      <DependentUpon>Tela_ComboBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Tela_DateTimer.resx">
+      <DependentUpon>Tela_DateTimer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tela_LinkLabel.resx">
+      <DependentUpon>Tela_LinkLabel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tela_ListBox.resx">
+      <DependentUpon>Tela_ListBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tela_ListView.resx">
+      <DependentUpon>Tela_ListView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tela_MaskedTextBox.resx">
+      <DependentUpon>Tela_MaskedTextBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tela_MounthCalendar.resx">
+      <DependentUpon>Tela_MounthCalendar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tela_PictureBox.resx">
+      <DependentUpon>Tela_PictureBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tela_RadioButton.resx">
+      <DependentUpon>Tela_RadioButton.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tela_TabControl.resx">
+      <DependentUpon>Tela_TabControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tela_TableLayoutPanel.resx">
+      <DependentUpon>Tela_TableLayoutPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tela_Timer.resx">
+      <DependentUpon>Tela_Timer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tela_ToolStripContainer.resx">
+      <DependentUpon>Tela_ToolStripContainer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tela_TrackBar.resx">
+      <DependentUpon>Tela_TrackBar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tela_WebBrowser.resx">
+      <DependentUpon>Tela_WebBrowser.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\white-marble-4-2018.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\teste.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CoolClips_spor0118.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CoolClips_spor0118-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
