@@ -1,0 +1,15 @@
+C:\Users\vitor\Documents\Learning_C-\Banco_Academia\Banco_Academia\obj\Debug\Banco_Academia.csproj.AssemblyReference.cache
+C:\Users\vitor\Documents\Learning_C-\Banco_Academia\Banco_Academia\obj\Debug\Banco_Academia.csproj.SuggestedBindingRedirects.cache
+C:\Users\vitor\Documents\Learning_C-\Banco_Academia\Banco_Academia\obj\Debug\Banco_Academia.Form1.resources
+C:\Users\vitor\Documents\Learning_C-\Banco_Academia\Banco_Academia\obj\Debug\Banco_Academia.F_Login.resources
+C:\Users\vitor\Documents\Learning_C-\Banco_Academia\Banco_Academia\obj\Debug\Banco_Academia.Properties.Resources.resources
+C:\Users\vitor\Documents\Learning_C-\Banco_Academia\Banco_Academia\obj\Debug\Banco_Academia.csproj.GenerateResource.cache
+C:\Users\vitor\Documents\Learning_C-\Banco_Academia\Banco_Academia\obj\Debug\Banco_Academia.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Documents\Learning_C-\Banco_Academia\Banco_Academia\bin\Debug\Banco_Academia.exe.config
+C:\Users\vitor\Documents\Learning_C-\Banco_Academia\Banco_Academia\bin\Debug\Banco_Academia.exe
+C:\Users\vitor\Documents\Learning_C-\Banco_Academia\Banco_Academia\bin\Debug\Banco_Academia.pdb
+C:\Users\vitor\Documents\Learning_C-\Banco_Academia\Banco_Academia\bin\Debug\System.Data.SQLite.dll
+C:\Users\vitor\Documents\Learning_C-\Banco_Academia\Banco_Academia\bin\Debug\System.Data.SQLite.xml
+C:\Users\vitor\Documents\Learning_C-\Banco_Academia\Banco_Academia\obj\Debug\Banco_Academia.csproj.CopyComplete
+C:\Users\vitor\Documents\Learning_C-\Banco_Academia\Banco_Academia\obj\Debug\Banco_Academia.exe
+C:\Users\vitor\Documents\Learning_C-\Banco_Academia\Banco_Academia\obj\Debug\Banco_Academia.pdb
